@@ -1,4 +1,4 @@
-# Ejercicios de terminal (PowerShell)
+.# Ejercicios de terminal (PowerShell)
 
 Cinco ejercicios cortos para practicar los comandos de `notas-terminal.md`, ordenados de más fácil a más difícil.
 Intenta hacerlos sin mirar las soluciones del final.
